@@ -1,0 +1,2 @@
+Speciality(Speciality_ID, Speciality, Performer_ID, Performer, Manager_ID, ManagerName)
+Location(Location_ID, Location, Show_Name, Show_Time, Date)

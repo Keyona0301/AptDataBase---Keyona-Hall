@@ -1,0 +1,27 @@
+As a <specialty type>, I want to join a <location> for boosting professional experience for gigs. 
+As a Aerialist, I'm eager to participate in a Starlight Cirrus in the near future. 
+I'm <name> is a <specialty> aerialist performer at <time> on <date>
+I'm Keyona and I'm a Beginner Aerialist performing for Midnight Flying Stars at 8:00pm on September 1st, 2026. 
+One morning, I, Aerialist performer is practicing for Midnight Flying Stars afraid on a bad show happening for first time. 
+I ask my <manager> who is else is participating in the Cirrus. 
+She open the database to check all the <performers>.
+The database returns to Mrs. <name>.
+"Three <Aerialist>," Mrs. Jane said. "But who's performing tonight?"
+She began to searched the <schedule/time>:
+The result came back oddly strange.
+There was an <time> shows, but no performers was listed. 
+<Name> checked the performance records. 
+She discovered that the <aerialist's/Name> had accidently been deleted. 
+"Don't worry," Mrs.<Name> said. "I can fix it."
+She searched for the <Name> with the most experience. 
+I <name>,appeared at the top. 
+Mrs. Jane <name> updated the missing record.
+The schedule was fixed. 
+That <evening/time>, thousands of people filled the tent. 
+The light dimmed, music playing. 
+I began to frighten when it was my turn to perform in the <show Name>.
+I grab the silks, began to spin in the air, to catch the trapeze. 
+The crowd begun to gasped. 
+Mrs. Jane watched in the background smiling in joy. 
+The <location> <specialty/Mrs. Jane> walked over. 
+"You perform outstanding in the <show name>."
