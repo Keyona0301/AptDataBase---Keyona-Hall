@@ -1,6 +1,0 @@
--- People names, Apt#
-
-SELECT Apartment.Apt_Number, Person.First_Name, Person.Last_Name, Person.Middle_Initial
-FROM  Apartment INNER JOIN
-         Person ON Apartment.Tenant_ID = Person.Person_ID
-ORDER BY Person.Last_Name
